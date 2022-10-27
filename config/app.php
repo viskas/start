@@ -185,6 +185,7 @@ return [
         /*
          * Package Service Providers...
          */
+        \App\Providers\UserMenuProvider::class,
 
         /*
          * Application Service Providers...
